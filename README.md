@@ -1,5 +1,8 @@
 # Java Spark Restful Web Service sample app
 
+Spring Data JPA, Hibernate, Spring Boot, Spark used.
+Database is Mysql.
+
 To open in IDEA:<br />
 mvn idea:idea<br />
 
